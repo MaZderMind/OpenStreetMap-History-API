@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.0.2">
+ <bounds minlat="49.7786650" minlon="8.1893660" maxlat="49.7807950" maxlon="8.1933250"/>
+ <node id="366092492" lat="49.7801535" lon="8.1915138" user="MaZderMind" uid="111159" visible="true" version="1" changeset="6507163" timestamp="2008-12-01T19:02:22Z"/>
+ <node id="366092492" lat="48.7801535" lon="7.1915138" user="MaZderMind" uid="111159" visible="true" version="2" changeset="6507163" timestamp="2010-12-01T19:02:22Z"/>
+ 
+ <node id="366092494" lat="49.7804393" lon="8.1920222" user="MaZderMind" uid="111159" visible="true" version="1" changeset="6507163" timestamp="2010-12-01T19:02:22Z"/>
+ <node id="1000000000" lat="49.7805393" lon="8.1921222" user="MaZderMind" uid="111159" visible="true" version="1" changeset="6507163" timestamp="2010-12-01T19:02:22Z"/>
+ 
+ <way id="32552464" visible="true" timestamp="2009-03-27T08:14:46Z" user="MaZderMind" uid="111159" version="1" changeset="862549">
+    <nd ref="366092492"/>
+    <nd ref="366092494"/>
+    <nd ref="1000000000"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Gustav-Heinemann"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="4"/>
+  </way>
+</osm>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server">
+  <node id="424313582" lat="35.0000747" lon="104.9999263" changeset="6037272" user="ralmin" uid="150488" visible="true" timestamp="2010-10-14T06:52:42Z" version="64">
+    <tag k="name:uz" v="Xitoy"/>
+    <tag k="name:it" v="Cina"/>
+    <tag k="name:ro" v="China"/>
+    <tag k="gns:DSG" v="PCLI"/>
+    <tag k="name:bg" v="Китай"/>
+    <tag k="is_in:continent" v="Asia"/>
+    <tag k="name:fi" v="Kiina"/>
+    <tag k="official_name:hy" v="Չինաստանի Ժողովրդական Հանրապետություն"/>
+    <tag k="official_name:en" v="People's Republic of China"/>
+    <tag k="name:nn" v="Kina"/>
+    <tag k="name:ga" v="An tSín"/>
+    <tag k="name:es" v="China"/>
+    <tag k="official_name:pl" v="Chińska Republika Ludowa"/>
+    <tag k="name:tr" v="Çin Halk Cumhuriyeti"/>
+    <tag k="name:no" v="Kina"/>
+    <tag k="country_code_fips" v="CH"/>
+    <tag k="name:cs" v="Čína"/>
+    <tag k="name:et" v="Hiina"/>
+    <tag k="place" v="country"/>
+    <tag k="capital_city" v="Beijing"/>
+    <tag k="name:ca" v="Xina"/>
+    <tag k="name:ar" v="الصين"/>
+    <tag k="name:haw" v="Kina"/>
+    <tag k="name:id" v="Cina"/>
+    <tag k="name:eu" v="Txinako Herri Errepublika"/>
+    <tag k="official_name:ro" v="Republica Populară Chineză"/>
+    <tag k="name:uk" v="Китай"/>
+    <tag k="name:fur" v="Cine"/>
+    <tag k="name:gd" v="Sìona"/>
+    <tag k="official_name:uz" v="Xitoy Xalq Respublikasi"/>
+    <tag k="official_name:it" v="Repubblica Popolare Cinese"/>
+    <tag k="official_name:bg" v="Китайската народна република"/>
+    <tag k="official_name" v="中华人民共和国"/>
+    <tag k="country_code_iso3166_1_alpha_2" v="CN"/>
+    <tag k="alt_name:vi" v="Trung Quốc"/>
+    <tag k="name:sk" v="Čína"/>
+    <tag k="name:pt" v="China"/>
+    <tag k="name:sl" v="Kitajska"/>
+    <tag k="name:ru" v="Китай"/>
+    <tag k="official_name:id" v="Republik Rakyat Cina"/>
+    <tag k="name:zh" v="中国"/>
+    <tag k="official_name:gd" v="Sluagh-Phoblachd na Sìne"/>
+    <tag k="official_name:eu" v="Txinako Herri Errepublika"/>
+    <tag k="name:la" v="Sinae"/>
+    <tag k="name:hr" v="Kina"/>
+    <tag k="name:nb" v="Kina"/>
+    <tag k="name:lt" v="Kinija"/>
+    <tag k="old_name:vi" v="Trung Cộng"/>
+    <tag k="name:ja" v="中国"/>
+    <tag k="name:cy" v="Tsieina"/>
+    <tag k="name:fr" v="Chine"/>
+    <tag k="name:lb" v="Volleksrepublik China"/>
+    <tag k="name:kk" v="Қытай"/>
+    <tag k="name:af" v="Sjina"/>
+    <tag k="name" v="中国"/>
+    <tag k="official_name:sl" v="Ljudska republika Kitajska"/>
+    <tag k="official_name:pt" v="República Popular da China"/>
+    <tag k="name:zh_pinyin" v="Zhōngguó"/>
+    <tag k="name:lv" v="Ķīna"/>
+    <tag k="name:tg" v="Хитой"/>
+    <tag k="name:vi" v="Trung Hoa"/>
+    <tag k="name:hu" v="Kína"/>
+    <tag k="name:mn" v="Хятад"/>
+    <tag k="name:th" v="ประเทศจีน"/>
+    <tag k="name:fa" v="چین"/>
+    <tag k="name:br" v="Sina"/>
+    <tag k="name:az" v="Çin"/>
+    <tag k="population" v="1300000000"/>
+    <tag k="official_name:la" v="Res Publica Popularis Sinarum"/>
+    <tag k="name:sr" v="Кина"/>
+    <tag k="name:da" v="Kina"/>
+    <tag k="official_name:lt" v="Kinijos Liaudies Respublika"/>
+    <tag k="official_name:lb" v="Volleksrepublik China"/>
+    <tag k="official_name:kk" v="Қытай Халық Республикасы"/>
+    <tag k="official_name:ja" v="中華人民共和国"/>
+    <tag k="official_name:cy" v="Gweriniaeth Pobl Tsieina"/>
+    <tag k="gns:UNI" v="-2618136"/>
+    <tag k="name:el" v="Κίνα"/>
+    <tag k="official_name:af" v="Volksrepubliek van Sjina"/>
+    <tag k="int_name" v="China"/>
+    <tag k="name:he" v="סין"/>
+    <tag k="official_name:vi" v="Cộng hòa Nhân dân Trung Hoa"/>
+    <tag k="official_name:lv" v="Ķīnas Tautas Republika"/>
+    <tag k="official_name:az" v="Çin Xalq Respublikası"/>
+    <tag k="name:en" v="China"/>
+    <tag k="gns:ADM1" v="00"/>
+    <tag k="name:tl" v="Tsina"/>
+    <tag k="official_name:sr" v="Народна Република Кина"/>
+    <tag k="official_name:br" v="Republik Pobl Sina"/>
+    <tag k="name:de" v="China"/>
+    <tag k="name:eo" v="Ĉinio"/>
+    <tag k="name:li" v="Sjina"/>
+    <tag k="name:hy" v="Չինաստան"/>
+    <tag k="name:sv" v="Kina"/>
+    <tag k="name:fy" v="Sina"/>
+    <tag k="name:pl" v="Chiny"/>
+    <tag k="gns:UFI" v="-1900673"/>
+    <tag k="name:be" v="Кітай"/>
+    <tag k="official_name:el" v="Λαϊκή Δημοκρατία της Κίνας"/>
+    <tag k="name:is" v="Alþýðulýðveldið Kína"/>
+    <tag k="name:nl" v="China"/>
+  </node>
+</osm>

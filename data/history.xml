@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server">
+  <node id="366092492" lat="49.7784643" lon="8.1905270" user="Blesmol" uid="407804" visible="true" version="7" changeset="7515309" timestamp="2011-03-10T15:56:52Z"/>
+  
+  <way id="32552464" visible="true" timestamp="2009-03-27T08:14:46Z" user="MaZderMind" uid="111159" version="1" changeset="862549">
+    <nd ref="366092492"/>
+    <nd ref="366092494"/>
+    <nd ref="366092496"/>
+    <nd ref="366092498"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Gustav-Heinemann"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="32552464" visible="true" timestamp="2009-03-29T15:15:02Z" user="MaZderMind" uid="111159" version="2" changeset="868960">
+    <nd ref="366092492"/>
+    <nd ref="366092494"/>
+    <nd ref="366092496"/>
+    <nd ref="366092500"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Gustav-Heinemann"/>
+    <tag k="surface" v="paved"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="32552464" visible="true" timestamp="2009-04-02T00:18:00Z" user="MaZderMind" uid="111159" version="3" changeset="43446">
+    <nd ref="366092492"/>
+    <nd ref="366092494"/>
+    <nd ref="366092496"/>
+    <nd ref="366092500"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Gustav-Heinemann"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="32552464" visible="true" timestamp="2009-04-02T22:32:56Z" user="MaZderMind" uid="111159" version="4" changeset="92876">
+    <nd ref="366092492"/>
+    <nd ref="366092494"/>
+    <nd ref="366092496"/>
+    <nd ref="366092500"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Gustav-Heinemann Straße"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="32552464" visible="true" timestamp="2009-05-01T11:11:14Z" user="MaZderMind" uid="111159" version="5" changeset="1034976">
+    <nd ref="366092492"/>
+    <nd ref="366092494"/>
+    <nd ref="388113944"/>
+    <nd ref="366092496"/>
+    <nd ref="366092500"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Gustav-Heinemann Straße"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="32552464" visible="true" timestamp="2009-08-20T20:36:14Z" user="MaZderMind" uid="111159" version="6" changeset="2216300">
+    <nd ref="366092492"/>
+    <nd ref="388113944"/>
+    <nd ref="366092496"/>
+    <nd ref="366092500"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Gustav-Heinemann Straße"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="32552464" visible="true" timestamp="2010-12-01T19:02:30Z" user="MaZderMind" uid="111159" version="7" changeset="6507163">
+    <nd ref="366092492"/>
+    <nd ref="1014897559"/>
+    <nd ref="388113944"/>
+    <nd ref="366092496"/>
+    <nd ref="366092500"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Gustav-Heinemann Straße"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="32552464" visible="true" timestamp="2011-02-21T09:51:25Z" user="b166er" uid="52759" version="8" changeset="7351806">
+    <nd ref="366092492"/>
+    <nd ref="1014897559"/>
+    <nd ref="388113944"/>
+    <nd ref="366092496"/>
+    <nd ref="366092500"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Gustav-Heinemann Straße"/>
+    <tag k="surface" v="paved"/>
+  </way>
+</osm>
