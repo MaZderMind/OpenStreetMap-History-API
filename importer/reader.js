@@ -7,7 +7,7 @@ function Parser(stream)
 {
 	// reading stream
 	this.stream = stream;
-	var xml = this.xml = new expat.Parser();
+	var xml = this.xml = new expat.Parser('utf-8');
 	
 	// the currently handled element
 	this.el = {};
