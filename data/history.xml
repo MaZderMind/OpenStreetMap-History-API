@@ -1,7 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="OpenStreetMap server">
-  <node id="366092492" lat="49.7784643" lon="8.1905270" user="Blesmol" uid="407804" visible="true" version="7" changeset="7515309" timestamp="2011-03-10T15:56:52Z"/>
-  
+  <node id="366092492" lat="49.7773481" lon="8.1898656" changeset="862549" user="MaZderMind" uid="111159" visible="true" timestamp="2009-03-27T08:14:45Z" version="1"/>
+  <node id="366092492" lat="49.7780408" lon="8.1902896" changeset="864889" user="MaZderMind" uid="111159" visible="true" timestamp="2009-03-28T11:06:36Z" version="2"/>
+  <node id="366092492" lat="49.7784409" lon="8.1905572" changeset="866438" user="MaZderMind" uid="111159" visible="true" timestamp="2009-03-28T18:04:48Z" version="3"/>
+  <node id="366092492" lat="49.7784409" lon="8.1905572" changeset="92876" user="MaZderMind" uid="111159" visible="true" timestamp="2009-04-02T22:32:55Z" version="4"/>
+  <node id="366092492" lat="49.7784561" lon="8.1905" changeset="2216300" user="MaZderMind" uid="111159" visible="true" timestamp="2009-08-20T20:36:13Z" version="5"/>
+  <node id="366092492" lat="49.7784401" lon="8.1905338" changeset="6507163" user="MaZderMind" uid="111159" visible="true" timestamp="2010-12-01T19:02:31Z" version="6"/>
+  <node id="366092492" lat="49.7784643" lon="8.190527" changeset="7515309" user="Blesmol" uid="407804" visible="true" timestamp="2011-03-10T15:56:52Z" version="7"/>
+
+  <node id="366092494" lat="49.7781245" lon="8.1903532" changeset="862549" user="MaZderMind" uid="111159" visible="true" timestamp="2009-03-27T08:14:45Z" version="1"/> 
+  <node id="366092494" lat="49.7785133" lon="8.1906143" changeset="866438" user="MaZderMind" uid="111159" visible="true" timestamp="2009-03-28T18:04:49Z" version="2"/> 
+  <node id="366092494" lat="49.7785133" lon="8.1906143" changeset="92876" user="MaZderMind" uid="111159" visible="true" timestamp="2009-04-02T22:32:55Z" version="3"/> 
+  <node id="366092494" lat="49.7785133" lon="8.1906143" changeset="2216300" user="MaZderMind" uid="111159" visible="false" timestamp="2009-08-20T20:36:14Z" version="4"/> 
+
+  <node id="366092496" lat="49.7797363" lon="8.1914961" changeset="862549" user="MaZderMind" uid="111159" visible="true" timestamp="2009-03-27T08:14:45Z" version="1"/> 
+  <node id="366092496" lat="49.7797363" lon="8.1914961" changeset="92876" user="MaZderMind" uid="111159" visible="true" timestamp="2009-04-02T22:32:55Z" version="2"/> 
+  <node id="366092496" lat="49.7797471" lon="8.1914794" changeset="2216300" user="MaZderMind" uid="111159" visible="true" timestamp="2009-08-20T20:36:13Z" version="3"/> 
+  <node id="366092496" lat="49.7797558" lon="8.1914523" changeset="6507163" user="MaZderMind" uid="111159" visible="true" timestamp="2010-12-01T19:02:31Z" version="4"/> 
+
+  <node id="366092498" lat="49.7802022" lon="8.1918967" changeset="862549" user="MaZderMind" uid="111159" visible="true" timestamp="2009-03-27T08:14:45Z" version="1"/> 
+  <node id="366092498" lat="49.7802022" lon="8.1918967" changeset="868960" user="MaZderMind" uid="111159" visible="false" timestamp="2009-03-29T15:15:06Z" version="2"/> 
+
+  <node id="366092500" lat="49.7802107" lon="8.1919044" changeset="862549" user="MaZderMind" uid="111159" visible="true" timestamp="2009-03-27T08:14:45Z" version="1"/> 
+  <node id="366092500" lat="49.7802844" lon="8.1919825" changeset="868960" user="MaZderMind" uid="111159" visible="true" timestamp="2009-03-29T15:15:00Z" version="2"/> 
+  <node id="366092500" lat="49.7802844" lon="8.1919825" changeset="92876" user="MaZderMind" uid="111159" visible="true" timestamp="2009-04-02T22:32:31Z" version="3"/> 
+  <node id="366092500" lat="49.7802844" lon="8.1919825" changeset="92876" user="MaZderMind" uid="111159" visible="true" timestamp="2009-04-02T22:32:56Z" version="4"/> 
+  <node id="366092500" lat="49.7802055" lon="8.1919009" changeset="433057" user="MaZderMind" uid="111159" visible="true" timestamp="2009-04-12T00:48:12Z" version="5"/> 
+  <node id="366092500" lat="49.7802439" lon="8.1918561" changeset="2216300" user="MaZderMind" uid="111159" visible="true" timestamp="2009-08-20T20:36:13Z" version="6"/> 
+
+  <node id="388113944" lat="49.779209" lon="8.1911639" changeset="1034220" user="MaZderMind" uid="111159" visible="true" timestamp="2009-05-01T09:54:40Z" version="1"> 
+    <tag k="payment:electronic_purses" v="yes"/> 
+    <tag k="payment:coins" v="yes"/> 
+    <tag k="amenity" v="vending_machine"/> 
+    <tag k="payment:debit_cards" v="no"/> 
+    <tag k="vending" v="cigarettes"/> 
+  </node> 
+  <node id="388113944" lat="49.7792208" lon="8.1911275" changeset="1034976" user="MaZderMind" uid="111159" visible="true" timestamp="2009-05-01T11:11:13Z" version="2"> 
+    <tag k="payment:electronic_purses" v="yes"/> 
+    <tag k="payment:coins" v="yes"/> 
+    <tag k="amenity" v="vending_machine"/> 
+    <tag k="payment:debit_cards" v="no"/> 
+    <tag k="vending" v="cigarettes"/> 
+  </node> 
+  <node id="388113944" lat="49.7791554" lon="8.1910589" changeset="1353096" user="MaZderMind" uid="111159" visible="true" timestamp="2009-05-29T19:36:57Z" version="3"> 
+    <tag k="payment:electronic_purses" v="yes"/> 
+    <tag k="payment:coins" v="yes"/> 
+    <tag k="amenity" v="vending_machine"/> 
+    <tag k="payment:debit_cards" v="no"/> 
+    <tag k="vending" v="cigarettes"/> 
+  </node> 
+  <node id="388113944" lat="49.7791659" lon="8.1910231" changeset="2216300" user="MaZderMind" uid="111159" visible="true" timestamp="2009-08-20T20:36:14Z" version="4"> 
+    <tag k="payment:electronic_purses" v="yes"/> 
+    <tag k="payment:coins" v="yes"/> 
+    <tag k="amenity" v="vending_machine"/> 
+    <tag k="payment:debit_cards" v="no"/> 
+    <tag k="vending" v="cigarettes"/> 
+  </node> 
+  <node id="388113944" lat="49.7791659" lon="8.1910231" changeset="2242981" user="MaZderMind" uid="111159" visible="true" timestamp="2009-08-24T12:31:39Z" version="5"/> 
+  <node id="388113944" lat="49.7791688" lon="8.1909938" changeset="6507163" user="MaZderMind" uid="111159" visible="true" timestamp="2010-12-01T19:02:29Z" version="6"/> 
+
+  <node id="1014897559" lat="49.7788525" lon="8.1907155" changeset="6507163" user="MaZderMind" uid="111159" visible="true" timestamp="2010-12-01T19:02:24Z" version="1"/> 
+
   <way id="32552464" visible="true" timestamp="2009-03-27T08:14:46Z" user="MaZderMind" uid="111159" version="1" changeset="862549">
     <nd ref="366092492"/>
     <nd ref="366092494"/>
