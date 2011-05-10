@@ -242,7 +242,7 @@ public:
             Osmium::OSM::Way *c = NULL;
 
             // walk over all waynodes
-            for(int ii = 0, ll = e->node_count(); ii < ll; ii++) {
+            for(osm_sequence_id_t ii = 0, ll = e->node_count(); ii < ll; ii++) {
                 // shorthand
                 osm_object_id_t node_id = e->get_node_id(ii);
 
@@ -267,14 +267,7 @@ public:
 
                     // add the waynode to the new way
                     if(debug) fprintf(stderr, "adding node-id %d to cutted way %d v%d for bbox[%d]\n", node_id, e->id, e->version, i);
-                    try
-                    {
-                        c->add_node(node_id);
-                    }
-                    catch(std::range_error&)
-                    {
-                        fprintf(stderr, "error adding node-id %d to cutted way %d v%d: it's already full (std::range_error)\n", node_id, e->id, e->version);
-                    }
+                    c->add_node(node_id);
                 }
             }
 
@@ -379,7 +372,7 @@ public:
             Osmium::OSM::Relation *c = NULL;
 
             // walk over all relation members
-            for(int ii = 0, ll = e->member_count(); ii < ll; ii++) {
+            for(osm_sequence_id_t ii = 0, ll = e->member_count(); ii < ll; ii++) {
                 // shorthand
                 const Osmium::OSM::RelationMember *member = e->get_member(ii);
 
@@ -404,14 +397,7 @@ public:
 
                     // add the member to the new relation
                     if(debug) fprintf(stderr, "adding member %c id %d to cutted relation %d v%d for bbox[%d]\n", member->get_type(), member->get_ref(), e->id, e->version, i);
-                    try
-                    {
-                        c->add_member(member->get_type(), member->get_ref(), member->get_role());
-                    }
-                    catch(std::range_error&)
-                    {
-                        fprintf(stderr, "error adding member %c id %d to cutted way %d v%d: it's already full (std::range_error)\n", member->get_type(), member->get_ref(), e->id, e->version);
-                    }
+                    c->add_member(member->get_type(), member->get_ref(), member->get_role());
                 }
             }
 
